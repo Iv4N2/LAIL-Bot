@@ -23,14 +23,13 @@ Linhas comentadas
 * Tipagem figma nosso projeto 
 https://www.figma.com/file/4km9w3sLmQp8NtyMr8pdnK/Untitled-(Copy)?type=design&t=8pb1C40pYTxSSgul-0
 
-## Definir papeis Scrum 
-Scrum Master: Gabriel lopes
-Gabriel Lopes vai ser responsavel por garantir que a equipe de desenvolvimento do aplicativo Beterra Vermelha esteja aderindo aos princípios e práticas do Scrum. Ele atua como facilitador, ajudando a remover obstáculos, promovendo a colaboração e protegendo a equipe de interrupções externas é facilitar as reunioes com sua equipe de desenvolvimento tais como daily scrum, reunões de planejamento Sprint.
-Gabriel foi escolido para ser o Scrum Master pois ele representa um profissional com experiencia na aplicação desse conceito, desta forma ele irá orientar todos os profissionais participantes deste projeto. 
+## Papéis Scrum 
+Scrum Master: Warley Lemes
+Warley Lemes vai ser responsavel por garantir que a equipe de desenvolvimento do aplicativo Beterra Vermelha esteja aderindo aos princípios e práticas do Scrum. Ele atua como facilitador, ajudando a remover obstáculos, promovendo a colaboração e protegendo a equipe de interrupções externas e facilitar as reuniões com sua equipe de desenvolvimento tais como daily scrum, reunões de planejamento Sprint.
+ELe foi escolido para ser o Scrum Master pois ele representa um profissional com experiencia na aplicação desse conceito, desta forma ele irá orientar todos os profissionais participantes deste projeto. 
 
-Product Owner: Marcos Estevão 
-Marcos Estevão sera responsavel  responsável por representar os interesses dos stakeholders e do cliente.Ele trabalha em estreita colaboração com a equipe de desenvolvimento para definir e priorizar os requisitos do produto.
-Marcos tambem vai ser responsavel por manter o backlog do produto atualizado, garantindo que os itens mais valiosos sejam priorizados e estejam prontos para serem trabalhados pela equipe.
+Product Owner: Hugo Souza 
+Hugo Souza será responsável por representar os interesses dos stakeholders e do cliente. Ele trabalha em estreita colaboração com a equipe de desenvolvimento para definir e priorizar os requisitos do produto.
 
 Equipe de desenvolvimento:
 Daniel Aron
