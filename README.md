@@ -1,18 +1,15 @@
 ## Sobre Nós
 
-### Bem-vindo Beterraba Vermelha
+Olá! Você já ouviu falar do LAIL Bot? Ele é um chatbot criado especialmente para concessionárias de carros e vendedores que buscam melhorar a eficiência e a produtividade nas vendas, ao mesmo tempo em que oferecem uma experiência de atendimento ao cliente aprimorada.
 
-Empresa Beterraba vermelha 
+O LAIL Bot é capaz de coletar informações importantes para o início de uma negociação de carros, como qual carro o cliente tem interesse, CPF, cor preferida, se tem carro para troca, entre outras informações relevantes. Além disso, ele gera relatórios mensais informando os progressos feitos na venda.
 
-Nossa empresa é uma loja online de produtos orgânicos, que tem como foco fornecer uma ampla variedade de frutas, verduras e legumes veganos para os nossos clientes. Trabalhamos com produtores locais e pequenos agricultores para garantir que os alimentos sejam cultivados de forma sustentável, sem o uso de agrotóxicos ou pesticidas, o que garante alimentos mais saudáveis e saborosos.
+Com uma interface amigável, o LAIL Bot permite que os clientes interajam de forma rápida e conveniente, sem precisar esperar por um atendimento humano. Os dados coletados são armazenados de forma segura e podem ser acessados pelos vendedores a qualquer momento, facilitando o processo de venda e reduzindo o tempo de espera.
 
-Temos um catálogo com diversos produtos orgânicos, incluindo frutas, verduras e legumes frescos, além de grãos, cereais e outros alimentos veganos, todos disponíveis para compra online através do nosso site ou aplicativo.
+Em resumo, o LAIL Bot é uma ferramenta indispensável para quem trabalha com vendas de carros, pois simplifica o processo de coleta de informações e melhora a experiência do cliente. Se você busca aumentar a eficiência da sua concessionária e melhorar o atendimento ao cliente, o LAIL Bot é a escolha certa para você!
 
-Oferecemos entregas em domicílio em várias regiões, com entregas rápidas e agendadas para que nossos clientes possam receber seus produtos frescos no conforto de suas casas.
-
-Além disso, nossa empresa tem um compromisso com a sustentabilidade e o meio ambiente, e trabalhamos para minimizar o impacto ambiental da nossa operação. Isso inclui o uso de embalagens ecológicas e a adoção de práticas sustentáveis em nossas operações logísticas.
-
-Nossa missão é fornecer alimentos orgânicos e veganos de alta qualidade para nossos clientes, apoiar pequenos produtores locais e promover a saúde e o bem-estar.
+<!--- 
+Linhas comentadas
 
 ## Índice/Sumário
 
@@ -158,3 +155,5 @@ Word
  - **Marcos Estevão** ****
  - **Crystian Marques Ferreira França** **RA:**
 
+final da linha comentada
+-->
