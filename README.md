@@ -9,6 +9,9 @@ Com uma interface amigável, o LAIL Bot permite que os clientes interajam de for
 
 Em resumo, o LAIL Bot é uma ferramenta indispensável para quem trabalha com vendas de carros, pois simplifica o processo de coleta de informações e melhora a experiência do cliente. Se você busca aumentar a eficiência da sua concessionária e melhorar o atendimento ao cliente, o LAIL Bot é a escolha certa para você!
 
+![Lail Otimização](/tela%20de%20login%20(1).png)
+
+
 ### Scrum
 
 ## Etapas do Projeto
