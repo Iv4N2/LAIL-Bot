@@ -43,12 +43,12 @@ A equipe de desenvolvimento do LAIL Bot, composta por Maycon Soares, Caio Marinh
 
 ## User History do desenvolvimento 
 
-![User History / Backlog do Produto / Sprint](https://drive.google.com/file/d/1fwr2blnQct_glCnO-3eL3eH3D3GnYpx2/view?usp=sharing)
+![User History / Backlog do Produto / Sprint](/image%201.png)
 
 
 ## Tecnologias Usadas
-Figma
-Word
+* Figma
+* Word
 
 
 
