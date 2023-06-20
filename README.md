@@ -44,7 +44,7 @@ A equipe de desenvolvimento do LAIL Bot, composta por Maycon Soares, Caio Marinh
 ![User History / Backlog do Produto / Sprint](/image%201.png)
 
 
-#### Padrão escolhido: Padrão Observer
+## Padrão escolhido: Padrão Observer
 
 - Explicação do padrão:
 O padrão Observer é um padrão comportamental que define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente. Isso permite a comunicação eficiente e desacoplada entre objetos, garantindo que as alterações em um objeto sejam refletidas em outros objetos interessados.
@@ -56,15 +56,18 @@ Explicação do papel de cada classe no padrão Observer:
 
 - Classe LAILBot:
 Funcionamento no padrão Observer: A classe LAILBot atua como o "Subject" (sujeito) do padrão Observer. Ela mantém uma lista de observadores (vendedores) registrados e é responsável por notificá-los quando ocorrerem eventos relevantes.
+
 - Classe Vendedor:
 Funcionamento no padrão Observer: A classe Vendedor atua como um "Observer" (observador) do padrão Observer. Ela se registra como observador do LAILBot para receber notificações quando ocorrerem eventos de interesse, como interações de clientes ou geração de relatórios.
+
 - Classe Cliente:
 Funcionamento no padrão Observer: A classe Cliente não está diretamente envolvida no padrão Observer, mas representa os clientes que interagem com o LAIL Bot. A coleta de informações do cliente pode ser realizada pelo LAILBot e, em seguida, notificações podem ser enviadas aos vendedores registrados.
+
 - Classe Relatorio:
 Funcionamento no padrão Observer: A classe Relatorio não está diretamente envolvida no padrão Observer, mas representa os relatórios mensais gerados pelo LAILBot. Quando um novo relatório é gerado, o LAILBot pode notificar os vendedores registrados para que eles possam ter acesso às informações atualizadas.
 No padrão Observer, o LAILBot é o objeto central que mantém a lista de observadores (vendedores) e os notifica sobre eventos relevantes. Os vendedores são os observadores que se registram no LAILBot para receber notificações quando ocorrerem eventos específicos. Dessa forma, quando um cliente interage com o LAILBot ou um novo relatório é gerado, os vendedores registrados são automaticamente notificados e podem agir de acordo com as informações recebidas. Isso permite uma comunicação eficiente e desacoplada entre o LAILBot e os vendedores, melhorando a colaboração e a atualização de informações no contexto do projeto LAIL Bot.
 
-#### Resumo do esqueleto de classes 
+## Resumo do esqueleto de classes 
 
 Neste esqueleto, temos a classe LAILBot, que representa o "Subject" (sujeito) no padrão Observer. Ela mantém uma lista de observadores (Vendedor) e possui métodos para adicionar (attach) e remover (detach) observadores, além de um método para notificar (notifyVendedores) os observadores sobre eventos relevantes.
 
