@@ -52,7 +52,7 @@ O padrão Observer é um padrão comportamental que define uma dependência um-p
 - Motivo da escolha:
 No contexto do projeto LAIL Bot, o padrão Observer pode ser aplicado para notificar os vendedores quando um cliente interage com o bot ou quando um novo relatório mensal é gerado. Dessa forma, os vendedores podem receber informações atualizadas sem a necessidade de consultar constantemente o estado do chatbot ou relatórios.
 
-Explicação do papel de cada classe no padrão Observer:
+#### Explicação do papel de cada classe no padrão Observer:
 
 - Classe LAILBot:
 Funcionamento no padrão Observer: A classe LAILBot atua como o "Subject" (sujeito) do padrão Observer. Ela mantém uma lista de observadores (vendedores) registrados e é responsável por notificá-los quando ocorrerem eventos relevantes.
