@@ -43,7 +43,6 @@ A equipe de desenvolvimento do LAIL Bot, composta por Maycon Soares, Caio Marinh
 
 ![User History / Backlog do Produto / Sprint](/image%201.png)
 
-
 ## Padrão escolhido: Padrão Observer
 
 - Explicação do padrão:
@@ -75,7 +74,8 @@ A interface Vendedor define o contrato para os observadores, com um método upda
 
 As demais classes, como Cliente e Relatorio, são apenas ilustrativas e representam outras entidades do projeto, que podem estar envolvidas na geração de eventos e notificações aos observadores.
 
-
+## Vídeos de apresentação 
+https://drive.google.com/drive/folders/1aMlKMUT9S9pzMG9jpiKu7XDoBLalyg-m?usp=sharing
 
 ## Tecnologias Usadas
 
